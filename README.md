@@ -4,6 +4,8 @@ PLANTEAMIENTO DEL PROYECTO
 
 PLANNING DE EJERCICIO PERSONALIZADO, ADECUADO A LA PERSONA. 
 
+
+
  
 
 2- ENTRENAMIENTO: 
@@ -18,6 +20,8 @@ ESTIRAMENTOS PREVIOS AL ENTRENAMIENTO
 
 REGISTRO DE ACTIVIDADES EXTERNAS AL ENTRENAMIENTO (FUTBOL, NATACION...) 
 
+
+
  
 
 3-CONSUMO DE CALORIAS: 
@@ -29,7 +33,9 @@ REGISTRO DE CALORIAS DIARIAS.
 ASESORAMIENTO NUTRICIONAL. 
 
 
-Tipos de ejercios:
+
+
+TIPOS DE EJERCICIOS:
 
 1 Sentadilla (squat) :  Con las sentadillas, trabajarás los músculos de los glúteos, los músculos isquiotibiales y los cuádriceps
 
